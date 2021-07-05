@@ -40,7 +40,7 @@ Os desafios serão feitos no Figma onde qualquer pessoa pode acessá-lo e até d
 
 Link do desafio no Figma: [Clique aqui](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Codel%C3%A2ndia-Desafios?node-id=0%3A1)
 
-Baixar material de apoio: [Clique aqui](https://github.com/iuricode/desafios-codelandia/blob/main/material-de-apoio/material-de-apoio-desafio01.zip)
+Material de apoio: [Clique aqui](https://github.com/iuricode/desafios-codelandia/blob/main/material-de-apoio/material-de-apoio-desafio01.zip)
 
 ---
 
@@ -51,7 +51,7 @@ Baixar material de apoio: [Clique aqui](https://github.com/iuricode/desafios-cod
 
 Link do desafio no Figma: [Clique aqui](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Codel%C3%A2ndia-Desafios?node-id=1883%3A2)
 
-Baixar material de apoio: [Clique aqui](#)
+Material de apoio: [Clique aqui](https://github.com/iuricode/desafios-codelandia/blob/main/material-de-apoio/material-de-apoio-desafio02.zip)
 
 ---
 

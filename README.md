@@ -1,4 +1,4 @@
-![Wallpaper](image/wallpaper.svg)
+![Wallpaper](image/wallpaper.png)
 
 <h2 align="center">
   Desafios Codelândia

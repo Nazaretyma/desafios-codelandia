@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="#">Entre na nossa comunidade!</a>
+  <a href="https://discord.com/invite/QevDJqCzaY">Entre na nossa comunidade!</a>
 </p>
 
 ---
@@ -40,7 +40,7 @@ Os desafios serão feitos no Figma onde qualquer pessoa pode acessá-lo e até d
 
 Link do desafio no Figma: [Clique aqui](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Codel%C3%A2ndia-Desafios?node-id=0%3A1)
 
-Baixar material de apoio: [Clique aqui](#)
+Baixar material de apoio: [Clique aqui](https://github.com/iuricode/desafios-codelandia/blob/main/material-de-apoio/material-de-apoio-desafio01.zip)
 
 ---
 
@@ -61,4 +61,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ---
 
-Feito com 💜 by **Codelândia** [Entre na nossa comunidade!](#)
+Feito com 💜 by **Codelândia** [Entre na nossa comunidade!](https://discord.com/invite/QevDJqCzaY)

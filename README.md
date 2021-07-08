@@ -44,7 +44,7 @@ Material de apoio: [Clique aqui](https://github.com/iuricode/desafios-codelandia
 
 ---
 
-### **Desafio 02 - Shop** <a name="id02"></a>
+### **Desafio 02 - Jordan Shoes** <a name="id02"></a>
 
 ![Desafio 02](image/desafio2.svg)
 

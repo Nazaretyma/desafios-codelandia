@@ -29,7 +29,8 @@ Os desafios serão feitos no Figma onde qualquer pessoa pode acessá-lo e até d
 ## 🎯 Índice de desafios
 
 * [Desafio 01 - Blog](#id01)
-* [Desafio 02 - Shop](#id02)
+* [Desafio 02 - Jordan Shoes](#id02)
+* [Desafio 03 - One page](#id03)
 
 ---
 
@@ -52,6 +53,17 @@ Material de apoio: [Clique aqui](https://github.com/iuricode/desafios-codelandia
 Link do desafio no Figma: [Clique aqui](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Codel%C3%A2ndia-Desafios?node-id=1883%3A2)
 
 Material de apoio: [Clique aqui](https://github.com/iuricode/desafios-codelandia/blob/main/material-de-apoio/material-de-apoio-desafio02.zip)
+
+---
+
+### **Desafio 03 - One page** <a name="id03"></a>
+
+![Desafio 03](image/desafio3.svg)
+
+
+Link do desafio no Figma: [Clique aqui](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios-Codel%C3%A2ndia?node-id=3725%3A2)
+
+Material de apoio: [Clique aqui](https://github.com/iuricode/desafios-codelandia/blob/main/material-de-apoio/material-de-apoio-desafio03.zip)
 
 ---
 
